@@ -3,3 +3,5 @@
 driffmm/
 __pycache__/
 *.pyc
+Datasets/sports.zip
+Datasets/sports/image_feat.npy
